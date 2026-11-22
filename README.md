@@ -5,6 +5,19 @@ This project analyzes retail sales data using MySQL to identify sales trends, pr
 
 The goal is to extract meaningful business insights that can support better business decisions.
 
+## Dataset Scope
+
+This project uses a small sample dataset created
+for SQL learning and analysis.
+
+- Customers: 11
+- Products: 8
+- Orders: 15
+- Order date range: January 5–19, 2026
+
+The findings represent this sample dataset and
+should not be interpreted as actual market trends.
+
 ## Tools Used
 - MySQL
 - MySQL Workbench
@@ -47,6 +60,14 @@ The project contains three tables:
 - Highest revenue-generating city: Hyderabad
 - Highest-spending customer: Rahul Sharma (₹91,000)
 - Average order value: ₹21,973.33
+
+### Additional Business Metrics
+
+| Business Metric | Result |
+|---|---:|
+| Electronics Revenue | ₹2,64,000 |
+| Hyderabad Revenue | ₹1,11,000 |
+| Mouse Revenue | ₹5,600 |
 
 ## Project Screenshots
 
