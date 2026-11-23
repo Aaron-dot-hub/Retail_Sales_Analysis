@@ -23,6 +23,16 @@ should not be interpreted as actual market trends.
 - MySQL Workbench
 - SQL
 
+## How to Run This Project
+
+1. Install MySQL and MySQL Workbench.
+2. Download Retail_Sales_Analysis_Final.sql.
+3. Open the file in MySQL Workbench.
+4. Execute the complete script on a fresh database environment.
+5. Explore the business analysis and advanced SQL queries.
+
+Note: Run the setup script once on a fresh database.
+
 ## Database Structure
 The project contains three tables:
 
